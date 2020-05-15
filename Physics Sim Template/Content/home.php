@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-     <link rel="stylesheet" href="styles.css">
+     <link rel="stylesheet" href="Physics Sim Template/CSS/styles.css">
     <title>Physics Sim</title>
 
 
@@ -25,19 +25,19 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="physicsTemplate.html">HOME </a>
+              <a class="nav-link" href="physicsTemplate.php">HOME </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="FEATURES.html">FEATURES</a>
+              <a class="nav-link" href="FEATURES.php">FEATURES</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="gettingStarted.html">GET STARTED</a>
+              <a class="nav-link" href="gettingStarted.php">GET STARTED</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="aboutUs.html">ABOUT US</a>
+              <a class="nav-link" href="aboutUs.php">ABOUT US</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="help.html">HELP</a>
+              <a class="nav-link" href="help.php">HELP</a>
             </li>
 
           </ul>
@@ -47,7 +47,7 @@
 
 
     <div class="container-fluid text-center" >
-      <!-- Content here -->
+      <!-- Content here  NEED EDITS-->
 
       <h1 class= " font-weight-bold text-center">Welcome to PhysicsSim </h1>
 
