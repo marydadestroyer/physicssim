@@ -12,11 +12,10 @@ function config($key = '')
         'site_url' => 'http://physicssim.com/',
         'nav_menu' => [
             '' => 'home',
-            'AboutUs' => 'AboutUs',
-            'login' => 'log in',
-            'myinventory' => 'my invertory',
-            'recipies' => 'recipies',
-            'shopinglist' => 'shoping list'
+            'Feature' => 'features',
+            'Get Started' => 'gettingStarted',
+            'About us' => 'aboutUs',
+            'Help' => 'help'
         ],
         /*'template_path' => 'template',*/
         'Content_path' => 'Content',

@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-     <link rel="stylesheet" href="Physics Sim Template/CSS/styles.css">
+     <link rel="stylesheet" href="Physics_Sim_Template/CSS/styles.css">
     <title>Help</title>
 
 
@@ -16,7 +16,7 @@
   <!--NavBar-->
     <section id="nav-bar">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand text-white" href="physicsTemplate.html">PhysicsSim</a>
+        <a class="navbar-brand text-white" href="home.php">PhysicsSim</a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 
@@ -25,19 +25,19 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="physicsTemplate.html">HOME </a>
+              <a class="nav-link" href="home.php">HOME </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="FEATURES.html">FEATURES</a>
+              <a class="nav-link" href="features.php">FEATURES</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="gettingStarted.html">GET STARTED</a>
+              <a class="nav-link" href="gettingStarted.php">GET STARTED</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="aboutUs.html">ABOUT US</a>
+              <a class="nav-link" href="aboutUs.php">ABOUT US</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="help.html">HELP</a>
+              <a class="nav-link" href="help.php">HELP</a>
             </li>
 
           </ul>
