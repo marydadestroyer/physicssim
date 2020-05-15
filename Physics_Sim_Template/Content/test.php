@@ -53,7 +53,7 @@
 
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
      
-      < href="https://physicssim.000webhostapp.com/PhysicsSim/webBuild/index.html">Get Started</button>
+      <a href="https://physicssim.000webhostapp.com/PhysicsSim/webBuild/index.html">to application</a>
     </div>
 
 
