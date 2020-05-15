@@ -54,7 +54,7 @@
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
      
       <a href="http://physicssim.com/webBuild/">To Application!</a>
-      <iframe src="http://physicssim.com/webBuild/" title="Physics Sims" width="100%" height="300">
+      <iframe src="http://physicssim.com/webBuild/" title="Physics Sims" width="100%" height="100%">
         </iframe>
     </div>
 
