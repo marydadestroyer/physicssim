@@ -22,26 +22,7 @@
 
             <i class="fa fa-bars"></i>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="home.php">HOME </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="features.php">FEATURES</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="gettingStarted.php">GET STARTED</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="aboutUs.php">ABOUT US</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="help.php">HELP</a>
-            </li>
-
-          </ul>
-        </div>
+        
       </nav>
     </section>
 
@@ -54,8 +35,7 @@
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
      
       <a href="http://physicssim.com/webBuild/">To Application!</a>
-      <iframe src="http://physicssim.com/webBuild/" title="Physics Sims" width="100%" height="100%">
-        </iframe>
+      
     </div>
 
 
