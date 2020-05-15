@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-     <link rel="stylesheet" href="Physics Sim Template/CSS/styles.css">
+     <link rel="stylesheet" href="../CSS/styles.css">
     <title>Physics Sim</title>
 
 
@@ -83,7 +83,7 @@
 
       <div class="row">
         <div class="col-sm text-center">
-            <img src="images/animation.png" class="feature-img">
+            <img src="../images/animation.png" class="feature-img">
             <h3>Animation of Concepts</h3>
             <p>The quick brown fox jumps over the wall.</p>
         </div>
