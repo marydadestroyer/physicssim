@@ -54,8 +54,8 @@
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
       
       
-      <h1 href="/gettingStarted.php">Get Started/h1>
-      
+      <h2 href="/gettingStarted.php">Get Started</h2>
+
     </div>
 
 
