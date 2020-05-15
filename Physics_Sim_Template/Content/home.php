@@ -53,8 +53,7 @@
 
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
       
-      <button type="button" class=" text-center btn btn-lg" style="background-color: #edac17"
-      href="/gettingStarted.php">Get Started</button>
+      <href="/gettingStarted.php">Get Started</a>
     </div>
 
 
@@ -66,7 +65,7 @@
           <div class="col-lg-12 text-center">
             <h1 class="font-weight-bold">WHAT WE DO...</h1>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet placerat metus. Nulla porta mauris a orci tristique, sit amet aliquam nunc convallis. Vivamus viverra, tortor lobortis dapibus sollicitudin, ex mauris suscipit nulla, quis tempus sapien augue eu ligula. Ut at ex dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum sodales felis eu sapien placerat auctor. Aliquam rhoncus placerat dolor, nec pharetra mauris porta id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia tortor purus, a scelerisque nunc pretium sit amet. Aliquam in erat mi. Maecenas risus orci, efficitur ut lobortis vel, viverra in turpis.</p>
+            <p>PhysicsSim is a cloud-based interactive simulation for teaching kinematics. PhysicsSim provides training and testing modes that allow the learners to freely explore different motion types without the pressure of being tested. PhysicsSim provides a tailored learning experience based on the learner’s interactions with the environment and their progress.</p>
           </div>
         </div>
       </div>
@@ -86,19 +85,19 @@
         <div class="col-sm text-center">
             <img src="../images/animation.png" class="feature-img">
             <h3>Animation of Concepts</h3>
-            <p>The quick brown fox jumps over the wall.</p>
+            <p>We use fun animations ot illistraite concepts.</p>
         </div>
 
         <div class="col-sm text-center">
           <img src="../images/personal.png" class="feature-img">
           <h3>Personalized Learning</h3>
-          <p>The quick brown fox jumps over the wall.</p>
+          <p>WE give the user a comfortable environment.</p>
         </div>
 
         <div class="col-sm text-center">
           <img src="../images/video.png" class="feature-img">
           <h3>Video Explanations</h3>
-          <p>The quick brown fox jumps over the wall.</p>
+          <p>By offering video explanations we ingage andaducate the user.</p>
         </div>
 
       </div>
@@ -112,7 +111,7 @@
       <div class="col-lg-12 text-center">
         <h1 class="font-weight-bold">Background</h1>
 
-        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet placerat metus. Nulla porta mauris a orci tristique, sit amet aliquam nunc convallis. Vivamus viverra, tortor lobortis dapibus sollicitudin, ex mauris suscipit nulla, quis tempus sapien augue eu ligula. Ut at ex dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum sodales felis eu sapien placerat auctor. Aliquam rhoncus placerat dolor, nec pharetra mauris porta id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia tortor purus, a scelerisque nunc pretium sit amet. Aliquam in erat mi. Maecenas risus orci, efficitur ut lobortis vel, viverra in turpis.</p>
+        <p>Understanding and interpreting relationships and functional trends with 2-D graphs are foundational skills in STEM fields. Introductory physics courses regularly start with the topic of kinematics which heavily utilizes 2-D graphs that describe motion. Yet, kinematics can be used as a great opportunity to teach graphing skills. The main goal of this project is to develop a cloud-based interactive simulation (PhysicsSim) that makes use of kinematics to help students understand the nuances of motion types and their graphical representations. PhysicsSim allows for a personalized learning experience in an environment that combines video tutorials and interactive animations with guided exercises and problems to practice the desired skills. This is an interdisciplinary project between the Department of Earth and Space Sciences and the TSYS School of Computer Science. </p>
       </div>
     </div>
   </div>
