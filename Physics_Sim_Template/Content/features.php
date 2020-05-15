@@ -58,26 +58,26 @@
       <div class="row">
         <div class="col-md-12 text-center">
           <h1 class="font-weight-bold">Features</h1>
-          <p> THose is a thingm ksdblisdg oiufgds iou sdoahlkdfhgiou kljdsbkj jfbj jdbjb uhjdh ubdjfjb hdfjbsadljb lkjc j j fj fjf jfs</p>
+          <p> These are the features </p>
 
         </div>
       </div>
 
       <div class="row">
         <div class="col-sm text-center">
-            <img src="images/animation.png" class="feature-img">
+            <img src="../images/animation.png" class="feature-img">
             <h3>Animation of Concepts</h3>
             <p>The quick brown fox jumps over the wall.</p>
         </div>
 
         <div class="col-sm text-center">
-          <img src="images/personal.png" class="feature-img">
+          <img src="../images/personal.png" class="feature-img">
           <h3>Personalized Learning</h3>
           <p>The quick brown fox jumps over the wall.</p>
         </div>
 
         <div class="col-sm text-center">
-          <img src="images/video.png" class="feature-img">
+          <img src="../images/video.png" class="feature-img">
           <h3>Video Explanations</h3>
           <p>The quick brown fox jumps over the wall.</p>
         </div>

@@ -49,10 +49,10 @@
     <div class="container-fluid text-center" >
       <!-- Content here -->
 
-      <h1 class= " font-weight-bold text-center">Welcome to PhysicsSim </h1>
+      <h1 class= " font-weight-bold text-center">Help </h1>
 
-      <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
-      <button type="button" class=" text-center btn btn-lg" style="background-color: #edac17">Get Started</button>
+      
+      
     </div>
 
     <!--Section1-->
