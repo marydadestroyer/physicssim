@@ -54,7 +54,7 @@
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
       
       
-      <a href="../Contents/gettingStarted.php">Get Started</a>
+      <a href="/Physics_Sim_Template/Content/gettingStarted.php">Get Started</a>
 
     </div>
 
