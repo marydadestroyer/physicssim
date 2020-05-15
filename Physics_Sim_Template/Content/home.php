@@ -54,7 +54,7 @@
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
       
       <button type="button" class=" text-center btn btn-lg" style="background-color: #edac17"
-      href="gettingStarted.php">Get Started</button>
+      href="/gettingStarted.php">Get Started</button>
     </div>
 
 
