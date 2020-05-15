@@ -54,7 +54,7 @@
         <div class= "row">
           <div class="col-lg-12 text-center">
             <h1 class="font-weight-bold">Getting Started</h1>
-              <a href="https://physicssim.000webhostapp.com/PhysicsSim/webBuild/index.html">to application</a>
+              <a href="http://physicssim.com/webBuild/">to application</a>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet placerat metus. Nulla porta mauris a orci tristique, sit amet aliquam nunc convallis. Vivamus viverra, tortor lobortis dapibus sollicitudin, ex mauris suscipit nulla, quis tempus sapien augue eu ligula. Ut at ex dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum sodales felis eu sapien placerat auctor. Aliquam rhoncus placerat dolor, nec pharetra mauris porta id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia tortor purus, a scelerisque nunc pretium sit amet. Aliquam in erat mi. Maecenas risus orci, efficitur ut lobortis vel, viverra in turpis.</p>
             </div>
         </div>
