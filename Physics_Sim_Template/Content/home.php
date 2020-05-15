@@ -52,6 +52,8 @@
       <h1 class= " font-weight-bold text-center">Welcome to PhysicsSim </h1>
 
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
+      <iframe src="http://physicssim.com/webBuild/" title="W3Schools Free Online Web Tutorials">
+</iframe>
       <button type="button" class=" text-center btn btn-lg" style="background-color: #edac17"
       href="http://physicssim.com/webBuild/">Get Started</button>
     </div>
