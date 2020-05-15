@@ -55,8 +55,7 @@
           <div class="col-lg-12 text-center">
             <h1 class="font-weight-bold">Getting Started</h1>
               <a href="http://physicssim.com/webBuild/">to application</a>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet placerat metus. Nulla porta mauris a orci tristique, sit amet aliquam nunc convallis. Vivamus viverra, tortor lobortis dapibus sollicitudin, ex mauris suscipit nulla, quis tempus sapien augue eu ligula. Ut at ex dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum sodales felis eu sapien placerat auctor. Aliquam rhoncus placerat dolor, nec pharetra mauris porta id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia tortor purus, a scelerisque nunc pretium sit amet. Aliquam in erat mi. Maecenas risus orci, efficitur ut lobortis vel, viverra in turpis.</p>
-            </div>
+              </div>
         </div>
       </div>
     </section>
@@ -75,19 +74,19 @@
         <div class="col-sm text-center">
             <img src="../images/animation.png" class="feature-img">
             <h3>Animation of Concepts</h3>
-            <p>The quick brown fox jumps over the wall.</p>
+            <p>We use fun animations ot illustrate concepts.</p>
         </div>
 
-        <div class="col-sm text-center">
+      <div class="col-sm text-center">
           <img src="../images/personal.png" class="feature-img">
           <h3>Personalized Learning</h3>
-          <p>The quick brown fox jumps over the wall.</p>
+          <p>We give the user a comfortable unique environment.</p>
         </div>
 
         <div class="col-sm text-center">
           <img src="../images/video.png" class="feature-img">
           <h3>Video Explanations</h3>
-          <p>The quick brown fox jumps over the wall.</p>
+          <p>By offering video explanations we engage and educate the user.</p>
         </div>
 
       </div>
@@ -98,10 +97,10 @@
 <section class=" bg-light page-section" id="background">
   <div class="container">
     <div class= "row">
-      <div class="col-lg-12 text-center">
-        <h1>Background</h1>
+       <div class="col-lg-12 text-center">
+        <h1 class="font-weight-bold">Background</h1>
 
-        <p> THose is a thingm ksdblisdg oiufgds iou sdoahlkdfhgiou kljdsbkj jfbj jdbjb uhjdh ubdjfjb hdfjbsadljb lkjc j j fj fjf jfs</p>
+        <p>Understanding and interpreting relationships and functional trends with 2-D graphs are foundational skills in STEM fields. Introductory physics courses regularly start with the topic of kinematics which heavily utilizes 2-D graphs that describe motion. Yet, kinematics can be used as a great opportunity to teach graphing skills. The main goal of this project is to develop a cloud-based interactive simulation (PhysicsSim) that makes use of kinematics to help students understand the nuances of motion types and their graphical representations. PhysicsSim allows for a personalized learning experience in an environment that combines video tutorials and interactive animations with guided exercises and problems to practice the desired skills. This is an interdisciplinary project between the Department of Earth and Space Sciences and the TSYS School of Computer Science. </p>
       </div>
     </div>
   </div>

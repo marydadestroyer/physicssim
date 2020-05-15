@@ -87,19 +87,19 @@
         <div class="col-sm text-center">
             <img src="../images/animation.png" class="feature-img">
             <h3>Animation of Concepts</h3>
-            <p>We use fun animations ot illistraite concepts.</p>
+            <p>We use fun animations ot illustrate concepts.</p>
         </div>
 
         <div class="col-sm text-center">
           <img src="../images/personal.png" class="feature-img">
           <h3>Personalized Learning</h3>
-          <p>WE give the user a comfortable environment.</p>
+          <p>We give the user a comfortable unique environment.</p>
         </div>
 
         <div class="col-sm text-center">
           <img src="../images/video.png" class="feature-img">
           <h3>Video Explanations</h3>
-          <p>By offering video explanations we ingage andaducate the user.</p>
+          <p>By offering video explanations we engage and educate the user.</p>
         </div>
 
       </div>
