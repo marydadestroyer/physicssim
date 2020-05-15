@@ -89,13 +89,13 @@
         </div>
 
         <div class="col-sm text-center">
-          <img src="images/personal.png" class="feature-img">
+          <img src="../images/personal.png" class="feature-img">
           <h3>Personalized Learning</h3>
           <p>The quick brown fox jumps over the wall.</p>
         </div>
 
         <div class="col-sm text-center">
-          <img src="images/video.png" class="feature-img">
+          <img src="../images/video.png" class="feature-img">
           <h3>Video Explanations</h3>
           <p>The quick brown fox jumps over the wall.</p>
         </div>
