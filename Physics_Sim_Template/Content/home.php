@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="http://physicssim.com/webBuild/" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
      <link rel="stylesheet" href="../CSS/styles.css">
     <title>Physics Sim</title>
 
@@ -53,7 +53,7 @@
 
       <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
       <button type="button" class=" text-center btn btn-lg" style="background-color: #edac17"
-      href="https://physicssim.000webhostapp.com/PhysicsSim/webBuild/index.html">Get Started</button>
+      href="http://physicssim.com/webBuild/">Get Started</button>
     </div>
 
 
