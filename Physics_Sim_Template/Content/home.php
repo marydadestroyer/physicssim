@@ -87,7 +87,7 @@
         <div class="col-sm text-center">
             <img src="../images/animation.png" class="feature-img">
             <h3>Animation of Concepts</h3>
-            <p>We use fun animations ot illustrate concepts.</p>
+            <p>We use fun animations to illustrate concepts.</p>
         </div>
 
         <div class="col-sm text-center">
