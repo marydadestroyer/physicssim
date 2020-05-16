@@ -61,9 +61,9 @@
           <div class="col-lg-12 text-center">
             <h1 class="font-weight-bold">Who We Are..</h1>
 
-            <p> Zdeslav Hrepic, Department of Earth and Space Sciences <a href = "mailto: drz@columbusstate.edu">drz@columbusstate.edu</a> <br>
+            <p> Sponsors<br> Zdeslav Hrepic, Department of Earth and Space Sciences <a href = "mailto: drz@columbusstate.edu">drz@columbusstate.edu</a> <br>
                 Rania Hodhod, TSYS School of Computer Science, Turner College of Business  <a href = "mailto: hodhod_rania@columbusstate.edu">hodhod_rania@columbusstate.edu</a>
-Computer Science Students<br>
+<br><b>Computer Science Students</b><br>
 Maidel Fletes, Mary Harrell, and Taylor Woods
 <br> Physics Student<br>
 Paul Halford
