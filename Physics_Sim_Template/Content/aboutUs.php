@@ -22,7 +22,7 @@
 
             <i class="fa fa-bars"></i>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+     <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
               <a class="nav-link" href="home.php">HOME </a>
@@ -37,7 +37,7 @@
               <a class="nav-link" href="aboutUs.php">ABOUT US</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="help.php">HELP</a>
+              <a class="nav-link" href="https://.columbusstate.edu/">CSU</a>
             </li>
 
           </ul>
@@ -62,8 +62,8 @@
           <div class="col-lg-12 text-center">
             <h1 class="font-weight-bold">Who we are..</h1>
 
-            <p> Zdeslav Hrepic, Department of Earth and Space Sciences <a href = "mailto: drz@columbusstate.edu">drz@columbusstate.edu</a>
-                Rania Hodhod, TSYS School of Computer Science, Turner College of Business  <a href = "mailto: hodhod_rania.columbusstate.edu">hodhod_rania.columbusstate.edu</a>
+            <p> Zdeslav Hrepic, Department of Earth and Space Sciences <a href = "mailto: drz@columbusstate.edu">drz@columbusstate.edu</a> <br>
+                Rania Hodhod, TSYS School of Computer Science, Turner College of Business  <a href = "mailto: hodhod_rania@columbusstate.edu">hodhod_rania@columbusstate.edu</a>
 </p>
           </div>
         </div>

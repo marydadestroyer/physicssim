@@ -22,8 +22,8 @@
 
             <i class="fa fa-bars"></i>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-   <ul class="navbar-nav ml-auto">
+           <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
             <li class="nav-item">
               <a class="nav-link" href="home.php">HOME </a>
             </li>
@@ -37,7 +37,7 @@
               <a class="nav-link" href="aboutUs.php">ABOUT US</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="help.php">HELP</a>
+              <a class="nav-link" href="https://.columbusstate.edu/">CSU</a>
             </li>
 
           </ul>
@@ -68,7 +68,7 @@
        <div class="col-lg-12 text-center">
         <h1 class="font-weight-bold">Using the Application</h1>
 
-        <p>Click the link to get started, if you have any questions email <a href = "mailto: harrell_mary@columbusstate.edu"> </p>
+        <p>Click the link to get started, if you have any questions email <a href = "mailto: harrell_mary@columbusstate.edu"> harrell_mary@columbusate.edu</p>
       </div>
     </div>
   </div>
