@@ -62,8 +62,8 @@
           <div class="col-lg-12 text-center">
             <h1 class="font-weight-bold">Who we are..</h1>
 
-            <p> Zdeslav Hrepic, Department of Earth and Space Sciences drz@columbusstate.edu
-                Rania Hodhod, TSYS School of Computer Science, Turner College of Business hodhod_rania.columbusstate.edu
+            <p> Zdeslav Hrepic, Department of Earth and Space Sciences <a href = "mailto: drz@columbusstate.edu">drz@columbusstate.edu</a>
+                Rania Hodhod, TSYS School of Computer Science, Turner College of Business  <a href = "mailto: hodhod_rania.columbusstate.edu">hodhod_rania.columbusstate.edu</a>
 </p>
           </div>
         </div>

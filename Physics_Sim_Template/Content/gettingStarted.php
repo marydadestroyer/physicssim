@@ -68,7 +68,7 @@
        <div class="col-lg-12 text-center">
         <h1 class="font-weight-bold">Using the Application</h1>
 
-        <p>Click the link to get started if you have question email harrell_mary@columbusstate.edu  </p>
+        <p>Click the link to get started, if you have any questions email <a href = "mailto: harrell_mary@columbusstate.edu"> </p>
       </div>
     </div>
   </div>
