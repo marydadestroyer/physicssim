@@ -37,7 +37,7 @@
               <a class="nav-link" href="aboutUs.php">ABOUT US</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://.columbusstate.edu/">CSU</a>
+              <a class="nav-link" href="https://columbusstate.edu/">CSU</a>
             </li>
 
           </ul>

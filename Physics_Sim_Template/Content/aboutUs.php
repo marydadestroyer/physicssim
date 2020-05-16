@@ -37,7 +37,7 @@
               <a class="nav-link" href="aboutUs.php">ABOUT US</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://.columbusstate.edu/">CSU</a>
+              <a class="nav-link" href="https://columbusstate.edu/">CSU</a>
             </li>
 
           </ul>
@@ -51,8 +51,7 @@
 
       <h1 class= " font-weight-bold text-center">About Us</h1>
 
-      <p class="text-center">An Intelligent Tutoring System to Teach Kinematics</p>
-      <button type="button" class=" text-center btn btn-lg" style="background-color: #edac17">Get Started</button>
+     
     </div>
 
     <!--Section1-->
@@ -60,10 +59,14 @@
       <div class="container">
         <div class= "row">
           <div class="col-lg-12 text-center">
-            <h1 class="font-weight-bold">Who we are..</h1>
+            <h1 class="font-weight-bold">Who We Are..</h1>
 
             <p> Zdeslav Hrepic, Department of Earth and Space Sciences <a href = "mailto: drz@columbusstate.edu">drz@columbusstate.edu</a> <br>
                 Rania Hodhod, TSYS School of Computer Science, Turner College of Business  <a href = "mailto: hodhod_rania@columbusstate.edu">hodhod_rania@columbusstate.edu</a>
+Computer Science Students<br>
+Maidel Fletes, Mary Harrell, and Taylor Woods
+<br> Physics Student<br>
+Paul Halford
 </p>
           </div>
         </div>
